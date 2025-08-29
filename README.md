@@ -6,7 +6,8 @@ Me chamo Kauan da Silva Passos, tenho 18 anos e sou de São Paulo. Concluí o en
 
 <div>
     <a href="https://github.com/kauan0613">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username-kauan06132&show_icons-false&theme-dracula&include_all_commits-true&count_private-true"/>
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username-kauan0613&show_icons-false&theme-dark&include_all_commits-true&count_private-true"/>
+    <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username-kauan0613&layout-compact&langs_count-16&theme-dracula"/>
 
 
 
