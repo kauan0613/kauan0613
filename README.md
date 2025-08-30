@@ -20,7 +20,11 @@ Me chamo Kauan da Silva Passos, tenho 18 anos e sou de São Paulo. Concluí o en
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan0613/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/kauan0613/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauan0613/kauan0613/output/github-contribution-grid-snake.svg">
+</picture>
  
 <div>
   <a href="https://www.instagram.com/eae_silvakjkk?igsh=MTUzbHZwYXV3dXdraQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,3 +32,5 @@ Me chamo Kauan da Silva Passos, tenho 18 anos e sou de São Paulo. Concluí o en
   <a href="https://www.linkedin.com/in/kauan-silva-9a121334b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
